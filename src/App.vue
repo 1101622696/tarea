@@ -173,7 +173,6 @@ function mostrarmensaje(mensaje) {
   height:60%;
   margin-left: auto;
   margin-right: auto;
-  border:2px solid black
 }
 #datos_t{
   color:black;
