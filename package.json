@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "vue": "^3.4.19",
-  "sweetalert2": "^11.10.5",
+  "sweetalert2": "^11.10.5"
 
   },
   "devDependencies": {
